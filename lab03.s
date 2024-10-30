@@ -98,6 +98,8 @@ outShowRowLoop:
 # ----------------------------------------
 
 rgb888_to_rgb565:
+	main int next to
+	 eleni10203040
 # ----------------------------------------
 # Write your code here.
 # You may move the "return" instruction (jalr zero, ra, 0).
